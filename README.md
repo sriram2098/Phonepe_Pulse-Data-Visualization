@@ -13,10 +13,10 @@ The insights on the website and in the report have been drawn from two key sourc
 
  1. [Plotly](https://plotly.com/python/) - (To plot and visualize the data)
  2. [Pandas](https://pandas.pydata.org/docs/) - (To Create a DataFrame with the scraped data)
- 3. mysql.connector - (To store and retrieve the data)
+ 3. [mysql.connector](https://www.mysql.com/products/connector/) - (To store and retrieve the data)
  4. [Streamlit](https://docs.streamlit.io/library/api-reference) - (To Create Graphical user Interface)
- 5. json - (To load the json files)
- 6. git.repo.base - (To clone the GitHub repository)
+ 5. [json](https://www.json.org/json-en.html) - (To load the json files)
+ 6. [git.repo.base](https://gitpython.readthedocs.io/en/stable/reference.html) - (To clone the GitHub repository)
  
  # Workflow
  
